@@ -2,7 +2,7 @@
 
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool data visualizations will be located and sectioned off throughout the webpage. 
 
 # About me
 Hi! My name is Chris Strehl (he/him), and I’m currently in my second year of graduate school at Carnegie Mellon University, pursuing a degree in Public Policy and Data Analytics. I’m originally from the Lehigh Valley in Pennsylvania and completed my undergraduate studies at Chestnut Hill College, where I also played football.
