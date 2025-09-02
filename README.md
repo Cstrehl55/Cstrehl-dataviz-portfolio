@@ -1,35 +1,25 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Chris Strehl (he/him), and I’m currently in my second year of graduate school at Carnegie Mellon University, pursuing a degree in Public Policy and Data Analytics. I’m originally from the Lehigh Valley in Pennsylvania and completed my undergraduate studies at Chestnut Hill College, where I also played football.
+
+I’m passionate about sports, especially football, baseball, and basketball, and I bring that same energy and teamwork mindset into my academic and professional life. I’ve had the opportunity to work at the Center for Political Accountability, contributing to their annual indexes. That experience deepened my understanding of the intersection between money and politics, and gave me a strong foundation in the rules and processes governing campaign finance and political accountability.
+
+I also have had the opportunity to intern with Representative Robert Freeman of the 136th district in Northampton County. This gave me experience working not only with constituents, but furthermore seeing everyday life for a representative in Harrisburg, sitting in on caucus and house meetings. 
+
+I’m especially excited about the power of data visualization to tell compelling stories and drive change. I look forward to sharing my work with you and learning from everyone in the class!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Hi everyone! I'm excited to be part of Telling Stories with Data because I want to learn how to communicate complex ideas clearly and creatively using data. I’m especially interested in improving my skills in data visualization, storytelling, and using tools to make data more engaging and accessible.
 
-1. List item #1
-2. List item #2
-3. List item #3
+I hope to learn how to design visualizations that not only look good but also tell meaningful stories that resonate with different audiences. I’m also curious about how to balance aesthetics with accuracy and how to choose the right chart or technique for different types of data.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
+After graduation, I plan to work in the government in some capacity, with a focus possibly towards budget analysis. I am passionate about money and its relationship in government, and I hope to use data to drive decisions and create an impact on budget analysis. 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -43,6 +33,8 @@ Here it might be helpful to include a high-level description of your final proje
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
+## Other Examples of Work
+Future examples of work outside this assignment will be posted here
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
 
