@@ -34,7 +34,9 @@ Here it might be helpful to include a high-level description of your final proje
 Part III(final-project-part-three)
 
 ## Other Examples of Work
-Future examples of work outside this assignment will be posted here
+
+Future examples of work outside this assignment will be posted here. 
+
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
 
