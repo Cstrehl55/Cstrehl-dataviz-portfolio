@@ -31,11 +31,17 @@ The second graph zooms out to the team level, showing total earnings by sports. 
 
 My plan was to take the orginal balnd and flat table,  and redesign it into visuals that are both easier to interpret and better at telling an overarching story with the intriguing data.
 ## Step four: Test the solution
-In class, I had the opputunity to present my ideas and a quick sketch of my plan for this redesign. 
+In class, I had the opportunity to present my ideas and a quick sketch of my plan for this redesign. The central theme and structure of my visualization remained the same, but I gained valuable insight into how I could better communicate the story behind the data. My initial concept focused on ranking on-field and off-field earnings by athlete, offering a new dimension to the original table format. From the feedback I received, the core idea and sketch were easy to understand, and I was encouraged to move forward with the base design. However, several limitations were identified that helped me refine my approach and think more critically about the audience and context.
+
+One of the most common pieces of feedback was about labeling. In my sketch, I hadn’t included the year the data was from, a simple but crucial detail that adds necessary context and credibility. Although my sketch didn’t include color, participants emphasized the importance of using contrasting colors to clearly differentiate on-field and off-field earnings. This feedback led me to explore the data from two perspectives, individual athlete and by sport type. As a result, I created two separate stacked bar charts to serve as the redesigned visualizations, allowing for more nuanced comparisons and a clearer narrative.
+
+Another key point of discussion was the labeling of athletes and their associated sports within the athlete stacked bar graph. While some participants appreciated the added detail, others noted that the intended audience is likely familiar with these athletes, might find the extra labels distracting or cluttered. This helped me realize that simplifying the labels and focusing on clarity would better serve the visualization’s purpose. The feedback also helped me think more intentionally about who the visualization is for and how they would interact with it. Also, a final key critique was focused on the amount of athletes, as previously mentioned, i was shooting for a top 25, but it causes the lines to be blurred together if not expanded correctly, so I decided to make the lines bigger and use ess athletes. Overall, this testing phase was instrumental in helping me expand and refine my design, ensuring that it communicates the data more effectively and resonates with the intended audience. It also gave me a clearer direction heading into the final build phase, where I can apply these insights to create a polished and purposeful visualization.
 
 ## Step five: build the solution
 
+Taking into account all the information I got from my critique, I ended up with this version with two stacked bar graph, both showing onfield and off field earning, but by team and by athlete. 
 
+Stacked-bar graph by Athlete: 
 
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
