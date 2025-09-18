@@ -25,43 +25,21 @@ Perceptibility is where it takes a hit. The table format works for its intended 
 
 Aesthetics, however, are pretty weak. The table is bland, with no strong colors, no hierarchy, and nothing that visually draws you in. Finally, engagement is surprisingly high. Even though the original table itself is plain, I’ve seen it everywhere, especially because so many social media accounts redesign or repost it. Since those viral versions all trace back to this source, it’s clear that the visualization has strong engagement power, even if it’s not flashy on its own.
 
-
 Overall, this table has strong data to work with, but very weak design. The simple use of a table is not visually appealing, and fails to capture the story driven elements that makes data viz so memorable. With a redesign to a new chart type, there can be further insight on hidden trends, and the data could better emphasize comparisons across athletes and sports, and create a more engaging experience for the audience.
 
-## Step three: Sketch a solution
+## Step three: Plan
+The critique process made me realize that while the table was accurate and engaging, it failed in perceptibility and storytelling. That directly shaped my redesign choices. For my redesign, I decided to break the table into two separate visualizations that highlight the parts of the data I was most curious about. The first graph shows the top 25 athletes ranked by their on-field and off-field earnings, using a stacked bar chart to make the differences between the two categories immediately clear. This not only keeps the rankings but also tells a deeper story about which athletes are earning more from endorsements versus competition.
 
+The second graph zooms out to the team level, showing total earnings by sports. I wanted to highlight which sports generate the most money for their athletes and compare how much of that comes from on-field performance versus off-field deals. Together, the two visualizations answer questions the table couldn’t—like which athletes rely heavily on endorsements, and which sports create the highest earning power overall.
+
+My plan was to take the orginal balnd and flat table,  and redesign it into visuals that are both easier to interpret and better at telling an overarching story with the intriguing data.
 ## Step four: Test the solution
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+In class, I had the opputunity to present my ideas and a quick sketch of my plan for this redesign. 
 
 ## Step five: build the solution
+
+
+
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
