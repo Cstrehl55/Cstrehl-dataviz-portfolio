@@ -64,6 +64,7 @@ The in-class feedback session was especially helpful in refining my design. It p
 In the end, this project taught me how to move from critique to creation, using design thinking to turn missed opportunities into meaningful visual stories. It also prepared me for future work by reinforcing the importance of audience awareness, iterative feedback, and purposeful design decisions. 
 
 
+Below is the graph with labels, a key point I mentioned with the feedback and my final design. While this is effective for a general audience, for the intended sports audience it becomes unnecessary labels that clutter the graph. I am curious which graph you like better, and it is definitely something to think about
 ![Top 15 Athletes W Labels](Top15athletsWlabels.png)
 
 ## References
