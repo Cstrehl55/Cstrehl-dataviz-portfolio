@@ -45,6 +45,11 @@ Stacked-bar graph by Athlete:
 ![Top 15 Athletes Earnings](Top_15_Athletes.png)
 
 
+Stacked- bar graph by Sports Type:
+
+![Sports Type Total Earnings](Sports_Team_Stacked_Bar_Graph.png)
+
+
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
