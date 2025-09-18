@@ -11,9 +11,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ### Step One: The Original Visualization
 
-Here is the original visualization I selected from Forbes:
-
-![Forbes Top Paid Athletes Visualization](images/forbes_athletes.png)
+[Original Forbes Visualization](https://www.forbes.com/lists/athletes/?sh=162054105b7e)
 
 Source: [Forbes Top Paid Athletes List](https://www.forbes.com/lists/athletes/?sh=162054105b7e)
 
