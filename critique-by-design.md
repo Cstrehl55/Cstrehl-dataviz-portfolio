@@ -9,14 +9,24 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-### Step One: The Original Visualization
 
 [Original Forbes Visualization](https://www.forbes.com/lists/athletes/?sh=162054105b7e)
 
-Source: [Forbes Top Paid Athletes List](https://www.forbes.com/lists/athletes/?sh=162054105b7e)
+The data visualization shows a ranked list of the top 10 highest-paid athletes, including their total earnings, on-the-field earnings, and off-the-field earnings. I’m an avid sports watcher, and I use social media all the time for sports news, analysis, or just talking with my friends about it. This visualization is one I see every year, and I remember seeing the latest version on Instagram not long ago. Whenever I see it, I end up wondering more about it—how does it compare across all sports, and who makes more from on-field earnings versus off-field endorsements? That’s why I chose this one to critique and redesign. My goal is to break it down into three separate graphs that tell a clearer story, highlight more hidden details, and finally answer the questions I’ve always had when looking at it.
+
+
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+The data visualization presents a ranked list of the top 10 highest-paid athletes. While the data itself is compelling, especially for audiences interested in sports, business, or celebrity culture, the way it is presented limits its effectiveness. The table format is visually flat and difficult to scan quickly. There is no visual hierarchy or design elements to guide the viewer’s attention, and the lack of source citation or a clear time frame makes it harder to assess the context and reliability of the data. It acts as a plain table, with no overarching story being told through it.
+
+Going through the categories of usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement, I’d say this is actually a pretty solid tool for critiquing the visualization. Starting with usefulness, the table is pretty effective for its audience. It communicates valuable information about the top-paid athletes and lays out all the numbers in a simple, straightforward way. For completeness, the visualization includes all the data points you need to understand the rankings, but it’s missing those story-driven elements that would really help highlight trends and deeper insights in the data.
+
+Perceptibility is where it takes a hit. The table format works for its intended purpose and is easy enough to follow, but it doesn’t make hidden details pop out. A stacked bar chart, for example, would make those comparisons instantly clear and tell a bigger story. In terms of truthfulness and intuitiveness, though, it scores high. The numbers are accurate, coming directly from Forbes, and the table doesn’t mislead the audience. On top of that, it’s intuitive—everyone immediately understands the rankings and what the columns represent.
+
+Aesthetics, however, are pretty weak. The table is bland, with no strong colors, no hierarchy, and nothing that visually draws you in. Finally, engagement is surprisingly high. Even though the original table itself is plain, I’ve seen it everywhere, especially because so many social media accounts redesign or repost it. Since those viral versions all trace back to this source, it’s clear that the visualization has strong engagement power, even if it’s not flashy on its own.
+
+
+Overall, this table has strong data to work with, but very weak design. The simple use of a table is not visually appealing, and fails to capture the story driven elements that makes data viz so memorable. With a redesign to a new chart type, there can be further insight on hidden trends, and the data could better emphasize comparisons across athletes and sports, and create a more engaging experience for the audience.
 
 ## Step three: Sketch a solution
 
