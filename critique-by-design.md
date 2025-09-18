@@ -42,6 +42,8 @@ Another key point of discussion was the labeling of athletes and their associate
 Taking into account all the information I got from my critique, I ended up with this version with two stacked bar graph, both showing onfield and off field earning, but by team and by athlete. 
 
 Stacked-bar graph by Athlete: 
+![Top 15 Athletes Earnings](top_15_athletes.png)
+
 
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
