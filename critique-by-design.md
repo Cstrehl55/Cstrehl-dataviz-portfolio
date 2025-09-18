@@ -8,7 +8,7 @@ Exploring Data Critique and Redesign through Forbes Top 10 Highest Paid Athletes
 
 [Original Forbes Visualization](https://www.forbes.com/lists/athletes/?sh=162054105b7e)
 
-The data visualization shows a ranked list of the top 10 highest-paid athletes (The Forbes link shows all, but a top 10 snippet of this table has been the popular vis going around), including their total earnings, on-the-field earnings, and off-the-field earnings. I’m an avid sports watcher, and I use social media all the time for sports news, analysis, or just talking with my friends about it. This visualization is one I see every year, and I remember seeing the latest version on Instagram not long ago. Whenever I see it, I end up wondering more about it—how does it compare across all sports, and who makes more from on-field earnings versus off-field endorsements? That’s why I chose this one to critique and redesign. My goal is to break it down into three separate graphs that tell a clearer story, highlight more hidden details, and finally answer the questions I’ve always had when looking at it.
+The data visualization shows a ranked list of the top 10 highest-paid athletes for 2025 (The Forbes link shows all, but a top 10 snippet of this table has been the popular vis going around), including their total earnings, on-the-field earnings, and off-the-field earnings. I’m an avid sports watcher, and I use social media all the time for sports news, analysis, or just talking with my friends about it. This visualization is one I see every year, and I remember seeing the latest version on Instagram not long ago. Whenever I see it, I end up wondering more about it—how does it compare across all sports, and who makes more from on-field earnings versus off-field endorsements? That’s why I chose this one to critique and redesign. My goal is to break it down into three separate graphs that tell a clearer story, highlight more hidden details, and finally answer the questions I’ve always had when looking at it.
 
 
 
@@ -40,11 +40,11 @@ Another key point of discussion was the labeling of athletes and their associate
 
 Taking into account all the information I got from my critique, I ended up with this version with two stacked bar graph, both showing onfield and off field earning, but by team and by athlete. 
 
-Stacked-bar graph by Athlete: 
+Stacked-bar graph by Athlete for 2025: 
 ![Top 15 Athletes Earnings](Top_15_Athletes.png)
 
 
-Stacked- bar graph by Sports Type:
+Stacked- bar graph by Sports Type for 2025:
 
 ![Sports Type Total Earnings](Sports_Team_Stacked_Bar_Graph.png)
 
