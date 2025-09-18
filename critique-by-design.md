@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Title
-Text here...
+Exploring Data Critque and Redesing through Forbes Top 10 Highest Paid Athletes
 
 
 ## Step one: the visualization
@@ -35,7 +35,7 @@ In class, I had the opportunity to present my ideas and a quick sketch of my pla
 
 One of the most common pieces of feedback was about labeling. In my sketch, I hadn’t included the year the data was from, a simple but crucial detail that adds necessary context and credibility. Although my sketch didn’t include color, participants emphasized the importance of using contrasting colors to clearly differentiate on-field and off-field earnings. This feedback led me to explore the data from two perspectives, individual athlete and by sport type. As a result, I created two separate stacked bar charts to serve as the redesigned visualizations, allowing for more nuanced comparisons and a clearer narrative.
 
-Another key point of discussion was the labeling of athletes and their associated sports within the athlete stacked bar graph. While some participants appreciated the added detail, others noted that the intended audience is likely familiar with these athletes, might find the extra labels distracting or cluttered. This helped me realize that simplifying the labels and focusing on clarity would better serve the visualization’s purpose. The feedback also helped me think more intentionally about who the visualization is for and how they would interact with it. Also, a final key critique was focused on the amount of athletes, as previously mentioned, i was shooting for a top 25, but it causes the lines to be blurred together if not expanded correctly, so I decided to make the lines bigger and use ess athletes. Overall, this testing phase was instrumental in helping me expand and refine my design, ensuring that it communicates the data more effectively and resonates with the intended audience. It also gave me a clearer direction heading into the final build phase, where I can apply these insights to create a polished and purposeful visualization.
+Another key point of discussion was the labeling of athletes and their associated sports within the athlete stacked bar graph. While some participants appreciated the added detail, others noted that the intended audience is likely familiar with these athletes, might find the extra labels distracting or cluttered. This helped me realize that simplifying the labels and focusing on clarity would better serve the visualization’s purpose. The feedback also helped me think more intentionally about who the visualization is for and how they would interact with it. Also, a final key critique was focused on the amount of athletes, as previously mentioned, I was shooting for a top 25, but it causes the lines to be blurred together if not expanded correctly, so I decided to make the lines bigger and use less athletes. Overall, this testing phase was instrumental in helping me expand and refine my design, ensuring that it communicates the data more effectively and resonates with the intended audience. It also gave me a clearer direction heading into the final build phase, where I can apply these insights to create a polished and purposeful visualization.
 
 ## Step five: build the solution
 
@@ -50,12 +50,24 @@ Stacked- bar graph by Sports Type:
 ![Sports Type Total Earnings](Sports_Team_Stacked_Bar_Graph.png)
 
 
+When examining the two redesigned graphs, the added engagement and improved aesthetics are immediately noticeable, especially through the use of color. My primary goal in creating these visualizations was to introduce story-driven elements that were missing from the original table. In the graph comparing earnings by sport type, a clear narrative emerges: basketball and golf dominate in total earnings when compared to other sports. This visualization provides deeper insight into the data and reveals patterns that were not visible in the original format.
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+I chose orange and blue to represent on-field and off-field earnings, respectively. This color contrast effectively separates the two categories and enhances readability. Using these categories was crucial, particularly in the sport-type graph, as it highlights how athletes in different leagues are compensated. For example, NFL players tend to earn more on the field than soccer players, but when off-field earnings are included, soccer players surpass them in total income. This layered view of the data reveals nuances that a simple total revenue breakdown would miss. Similarly, the dominance of off-field earnings in tennis is striking—nearly all of the top athletes’ income comes from endorsements and sponsorships. These insights are made possible through the stacked bar format, which adds depth and clarity to the story.
+
+For the athlete-focused graph, I expanded the scope to include the top 15 earners. I opted to remove labels from the bars to reduce visual clutter and make the chart easier to interpret. To illustrate the impact of this choice, I included a labeled version at the bottom of the section for comparison. This redesign again emphasizes storytelling and insight. For instance, Roger Federer earns nearly all his income off the field, while athletes like Canelo Álvarez and top golfers earn most of theirs on the field. Meanwhile, global icons like LeBron James, Lionel Messi, and Cristiano Ronaldo show a balanced mix of both. These patterns are far more visible and meaningful in the redesigned visualization than they ever were in the original table.
+
+Overall, this project served as a valuable learning experience in both critiquing a data visualization and redesigning it with purpose. From the beginning, I was drawn to the athlete earnings table because of its high salience and relevance, but also because of its clear limitations. The original visualization lacked visual hierarchy, engagement, and clarity—making it a strong candidate for transformation. This gave me the opportunity to apply the critique-by-design method meaningfully, using Stephen Few’s Data Visualization Effectiveness Profile to identify specific areas for improvement.
+
+Throughout the process, I focused on building a story-driven visualization that could reveal insights hidden in the original table. By converting the data into stacked bar charts, I was able to highlight the contrast between on-field and off-field earnings, both by individual athlete and by sport type. These visualizations not only improved aesthetics and readability, but also added analytical depth—showing patterns such as the dominance of off-field earnings in tennis or the balanced income streams of global icons like Messi and LeBron.
+
+The in-class feedback session was especially helpful in refining my design. It pushed me to think more critically about labeling, color contrast, and audience expectations. I learned that small details, like including the year of the data or simplifying labels, can significantly impact how a visualization is interpreted. These insights guided my final redesign choices and helped me create visuals that are not only clearer but also more engaging and informative.
+
+In the end, this project taught me how to move from critique to creation, using design thinking to turn missed opportunities into meaningful visual stories. It also prepared me for future work by reinforcing the importance of audience awareness, iterative feedback, and purposeful design decisions. 
 
 ## References
-_List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+[Original Forbes Visualization](https://www.forbes.com/lists/athletes/?sh=162054105b7e)
+
+The tool used for the visualizations was Tableau, with also the use of Tableau Public in publishing this visualization.
+
 
