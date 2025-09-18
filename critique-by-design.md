@@ -63,6 +63,9 @@ The in-class feedback session was especially helpful in refining my design. It p
 
 In the end, this project taught me how to move from critique to creation, using design thinking to turn missed opportunities into meaningful visual stories. It also prepared me for future work by reinforcing the importance of audience awareness, iterative feedback, and purposeful design decisions. 
 
+
+![Top 15 Athletes W Labels](Top15athletsWlabels.png)
+
 ## References
 
 [Original Forbes Visualization](https://www.forbes.com/lists/athletes/?sh=162054105b7e)
