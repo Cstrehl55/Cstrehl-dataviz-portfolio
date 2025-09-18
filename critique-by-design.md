@@ -42,7 +42,7 @@ Another key point of discussion was the labeling of athletes and their associate
 Taking into account all the information I got from my critique, I ended up with this version with two stacked bar graph, both showing onfield and off field earning, but by team and by athlete. 
 
 Stacked-bar graph by Athlete: 
-![Top 15 Athletes Earnings](top_15_athletes.png)
+![Top 15 Athletes Earnings](top_15_Athletes.png)
 
 
 
