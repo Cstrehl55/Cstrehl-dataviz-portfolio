@@ -52,16 +52,32 @@ Some User stories for later incorporation
 ## Initial sketches
 
 ### Section 1
-![Sketch 1](Sketch_1.png)
+![Sketch 1](Sketch_7.png)
 
 ### Section 2
-![Sketch 2](Sketch_2.png)
+![Sketch 2](Sketch_8.png)
 
 ### Section 3
-![Sketch 3](Sketch_3.png)
+![Sketch 3](Sketch_9.png)
 
+### Section 4
+![Sketch 1](Sketch_3.png)
 
-Text here...
+### Section 5
+![Sketch 1](Sketch_1.png)
+
+### Section 6
+![Sketch 1](Sketch_4.png)
+
+### Section 7
+![Sketch 1](Sketch_5.png)
+
+### Section 7
+![Sketch 1](Sketch_6.png)
+
+### Section 9
+![Sketch 1](Sketch_9.png)
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
