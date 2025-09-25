@@ -91,9 +91,7 @@ CDC Youth Concussion Date |  https://yrbs-explorer.services.cdc.gov/#/graphs?que
 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
 For my Final Project, I will use shorthand to visually show my concussion story. I plan to begin with a personal connection through my experiences with concussions, then delve deeper into the actual data. Using concussion data from youth, NCAA, and NFL football, along with supplementary CTE data, I plan to create multiple visualizations, including a bar chart to show concussion rates across sports for NCAA and High school levels, along with a further breakdown of concussions by state. In addition, conveying concussion trends through rule changes in the NFL, and by position. Finally, highlighting CTE data through years of football played relative to CTE level. I will integrate these visualizations into a cohesive story arc, highlighting football’s high concussion rates, the progression to CTE, and the impact of rule changes in the NFL. Most of these visualizations will be created using Tableau, with an expectation for the map visualization by US state, which will be created using Python, with integration into Shorthand to convey a compelling visualization storyboard. 
 ## References
 _List any references you used here._
