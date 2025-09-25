@@ -76,7 +76,7 @@ Some User stories for later incorporation
 ![Sketch 1](Sketch_6.png)
 
 ### Section 9
-![Sketch 1](Sketch_9.png)
+![Sketch 1](Sketch_2.png)
 
 
 # The data
