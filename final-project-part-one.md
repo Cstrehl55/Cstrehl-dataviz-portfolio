@@ -26,20 +26,31 @@ One Sentence Summary: This project visually explores concussion trends across yo
    -Present concussion rates by sport, highlighting how dominant football is in this regard.
    -Use map visualizations to convey concussion rates by state, and if anything jumps out, I hope to do further research towards rules as to why this may be the case
    -This will establish football as a leader in concussions, and possibly highlight rules that have worked for youth sports in this regard.
-   -Also, highlight how we do focus on football in this project, but this can happen to anybody playing any sport. 
-   3. NCAA Data and Trends
+   -Also, highlight how we do focus on football in this project, but this can happen to anybody playing any sport.
+3. NCAA Data and Trends
       -Show NCAA concussion rates by sport, and compare these trends to high school data.
       -Show patterns seen in youth sports carrying over to college, and highlighting any potential risk escalations.
-      4. NFL Trends and Rule Changes
+4. NFL Trends and Rule Changes
          -Present NFL concussion totals per season, noting game and practice trends, along with rule changes throughout the years
          -Normalize this data to compare concussion rates to the NCAA and high school data
          -This will establish the continued high concussion rate in football, but also how rule changes have caused these concussion rates and totals to decline
 5. CTE and long-term implications
-   -Introduce
+   -Introduce CTE data, showing how repeated head impacts and years playing football contribute to long-term CTE issues
+   -Highlight how many years played during football attributes to higher risks of CTE, something that should highlight how important it is to understand concussions and the risks associated with them.
+   -A possible extension of this could be looking at real NFL player CTE diagnosis, but that is yet to be incorporated into part one, but may be in the future
+6. Takeaways
+   -Visually explore the high risks of concussions in football across all levels
+   -Gain awareness on how new NFL rules have either helped or done little to curb concussions at the professional level
+   -Understand the consequences of concussions, and encourage informed decisions by players, coaches, and parents in reporting and resting with concussions
+
+
+Some User stories for later incorporation
+-Lacrosse players quitting football because of concussions
+-own experience with concussion, tests, and players hiding it
          
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline and include elements of your story.  
 
 Text here...
 
@@ -52,17 +63,14 @@ For this project, I am using multiple datasets to explore concussion rates acros
 Starting with high school concussion data, this data comes from the Youth Risk Behavior Surveillance System (YRBSS) and related CDC/NSC reports. This dataset provides concussion rates by state, sport, and gender/demographic. I will use this data to create a map visualization showing how concussion rates vary geographically across U.S. states for youth sports. I will additionally display the highest concussion rates across sports in ages 10-18 using data provided by a scholarly article called "Concussion in high school sports: findings from injury
 surveillance".
 
-After establishing football as the leading cause of concussions through the data, I will be looking at NCAA data to see if the trends fall similarly. First, I will start by examining concussion trends by collegiate sport, similar to what we did with youth/high school sports. For this part, I have two data sets, both from the Journal of Athletic Training. The first one, titled "Epidemiology of Concussions in National Collegiate Athletic Association (NCAA) Sports", examines data from 2011-2015, examining concussion rates by sports. The second article is called "Epidemiology of Concussions in National Collegiate Athletic Association (NCAA) Sports", so the same title and a continuation of the same study, but from 2015 to 2019. I hope to pull the data from these two journals and see how trends across sports have changed in terms of concussion rates trhoughout the years. 
+After establishing football as the leading cause of concussions through the data, I will be looking at NCAA data to see if the trends fall similarly. First, I will start by examining concussion trends by collegiate sport, similar to what we did with youth/high school sports. For this part, I have two data sets, both from the Journal of Athletic Training. The first one, titled "Epidemiology of Concussions in National Collegiate Athletic Association (NCAA) Sports", examines data from 2011-2015, examining concussion rates by sports. The second article is called "Epidemiology of Concussions in National Collegiate Athletic Association (NCAA) Sports", so the same title and a continuation of the same study, but from 2015 to 2019. I hope to pull the data from these two journals and see how trends across sports have changed in terms of concussion rates throughout the years. 
 
 One limitation of NCAA concussion data is that the data is collected by a private organization, and therefore, public data is not accessible. In order to account for this, I decided to put an extra focus on the NFL. 
 
-For the NFL, the data is provided by the NFL, from 2015 to 2024, as 2015 is when the NFL started collecting Data. In trying to find earlier data, it is nearly impossible, as earlier data is usually heavily undercounted. This data includes concussions per season for each year. An additional dataset provided via GitHub by scraping data from pro-football-reference allows for further breakdown by Team, players, and position. 
+For the NFL, the data is provided by the NFL, from 2015 to 2024, as 2015 is when the NFL started collecting Data. In trying to find earlier data, it is nearly impossible, as earlier data is usually heavily undercounted. This data includes concussions per season for each year. An additional dataset provided via GitHub by scraping data from pro-football-reference allows for further breakdown by team, players, and position. 
 
-CTE DATA
-
-
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your GitHub repository, Box account, or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available, please talk to me first. 
+Finally, I will conclude with CTE data, showing the CTE level based on the years they played. I was able to acquire the dataset from a journal article called "Leveraging football accelerometer data to
+Quantify associations between repetitive head impacts and chronic traumatic encephalopathy in males." This will allow for an exploration of how playing football directly relates to CTE. 
 
 | Name | URL | Description |
 CDC Youth Concussion Date |  https://yrbs-explorer.services.cdc.gov/#/graphs?questionCode=H79&topicCode=C06&location=XX&year=2023   | Includes data that we can pull into CVS files through an easy click for the entire US and further broken down by US States|
@@ -75,14 +83,16 @@ CDC Youth Concussion Date |  https://yrbs-explorer.services.cdc.gov/#/graphs?que
 
 |NFL Concussion Data| Data is provided by the NFL, https://www.nfl.com/playerhealthandsafety/health-and-wellness/injury-data/injury-data, but a Kaggle dataset has already converted this into a CSV, https://www.kaggle.com/datasets/ajvazquez/nfl-concussions-from-2015-2023|. This data examines concussion rates throughout the NFL season, breaking it down by Preseason, Regular season, games, and practice|
 
-|NFL Concussion Data via scrapping| Guthub link, https://github.com/jchernak96/NFL-Injury-Data-PFR-/tree/master/Data| Guthub provides data sets of concussion data through scrapping of Pro-football-refernce|
+|NFL Concussion Data via scraping | GitHub link, https://github.com/jchernak96/NFL-Injury-Data-PFR-/tree/master/Data| GitHub provides data sets of concussion data broken down by player, team, and position through scraping of Pro-football-refernce|
+
+|CTE Data| The CSV file is provided in this GitHub Repository| Years playing football to CTE level|
 
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
 Text here...
-
+For my Final Project, I will use shorthand to visually show my concussion story. I plan to begin with a personal connection through my experiences with concussions, then delve deeper into the actual data. Using concussion data from youth, NCAA, and NFL football, along with supplementary CTE data, I plan to create multiple visualizations, including a bar chart to show concussion rates across sports for NCAA and High school levels, along with a further breakdown of concussions by state. In addition, conveying concussion trends through rule changes in the NFL, and by position. Finally, highlighting CTE data through years of football played relative to CTE level. I will integrate these visualizations into a cohesive story arc, highlighting football’s high concussion rates, the progression to CTE, and the impact of rule changes in the NFL. Most of these visualizations will be created using Tableau, with an expectation for the map visualization by US state, which will be created using Python, with integration into Shorthand to convey a compelling visualization storyboard. 
 ## References
 _List any references you used here._
 
