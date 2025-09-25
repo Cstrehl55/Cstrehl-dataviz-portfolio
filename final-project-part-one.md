@@ -52,13 +52,13 @@ Some User stories for later incorporation
 ## Initial sketches
 
 ### Section 1
-![Sketch 1](sketch_1.png)
+![Sketch 1](Sketch_1.png)
 
 ### Section 2
-![Sketch 2](sketch_2.png)
+![Sketch 2](Sketch_2.png)
 
 ### Section 3
-![Sketch 3](sketch_3.png)
+![Sketch 3](Sketch_3.png)
 
 
 Text here...
