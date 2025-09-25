@@ -15,12 +15,28 @@ Finally, the project examines CTE data, showing the real-life consequences that 
 
 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise, along with your user stories and one sentence summary, to make the topic even clearer. 
 
 # Project Structure
-
-
-
+One Sentence Summary: This project visually explores concussion trends across youth, collegiate, and professional football, highlighting the risk, long-term consequences, and the impact of rule changes over time.  
+1. Personal Connection
+   -I want to open similarly to how I opened this. I want to focus on my experience playing football for 16 years, go deep with my experiences, including headaches during practice, and my own concussion story.
+   -This will allow for immediate ethos, as I have played football and understand how brutal concussions can be. 
+2. Youth and High School Trends
+   -Present concussion rates by sport, highlighting how dominant football is in this regard.
+   -Use map visualizations to convey concussion rates by state, and if anything jumps out, I hope to do further research towards rules as to why this may be the case
+   -This will establish football as a leader in concussions, and possibly highlight rules that have worked for youth sports in this regard.
+   -Also, highlight how we do focus on football in this project, but this can happen to anybody playing any sport. 
+   3. NCAA Data and Trends
+      -Show NCAA concussion rates by sport, and compare these trends to high school data.
+      -Show patterns seen in youth sports carrying over to college, and highlighting any potential risk escalations.
+      4. NFL Trends and Rule Changes
+         -Present NFL concussion totals per season, noting game and practice trends, along with rule changes throughout the years
+         -Normalize this data to compare concussion rates to the NCAA and high school data
+         -This will establish the continued high concussion rate in football, but also how rule changes have caused these concussion rates and totals to decline
+5. CTE and long-term implications
+   -Introduce
+         
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
