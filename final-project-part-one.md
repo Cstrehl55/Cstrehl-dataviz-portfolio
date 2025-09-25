@@ -3,14 +3,24 @@
 
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+## Outline 
+
+As someone who has played football for 16 years, concussions and awareness of their effects have always been at the forefront of my mind. Playing offensive and defensive line throughout my career, I experienced—and witnessed—numerous brutal blows to the head, some days worse than others, with Advil often feeling like a necessity. As awareness of chronic traumatic encephalopathy (CTE) grew, particularly around the time the movie Concussion brought the issue to public attention, the importance of understanding concussions and their potentially devastating long-term outcomes became even more personal and urgent for me, especially during my senior year, when I ended up in the hospital after a game due to a concussion I suffered.
+
+Building on this personal experience, this project explores concussion rates and totals across youth, collegiate, and professional football, focusing on trends, risk factors, and long-term implications such as CTE. Using publicly available datasets and journal data, the project will visually convey football’s high concussion rates relative to other sports at the high school and NCAA levels, while examining how these rates vary geographically, over time, and across levels of play.
+
+Next, the scope expands to the NFL. Since concussions and CTE gained widespread attention, the NFL has implemented rule changes aimed at reducing head injuries and making the game safer overall. This project will explore these changes and analyze their impact on concussion totals over the years, highlighting patterns before and after key policy interventions.
+
+Finally, the project examines CTE data, showing the real-life consequences that repeated concussions can have on players’ long-term health. Through visualizations, the goal is to highlight the connection between football and elevated CTE risk, emphasizing that these issues deserve serious attention at every level of play. While the project does not seek to dissuade anyone from playing football, it provides insight into the hidden risks of concussions and encourages awareness and informed decision-making for athletes, coaches, and the broader sports community.
+
+
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+# Project Structure
+
+
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
