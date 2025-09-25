@@ -50,7 +50,16 @@ Some User stories for later incorporation
          
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline and include elements of your story.  
+
+### Section 1
+![Sketch 1](sketch_1.png)
+
+### Section 2
+![Sketch 2](sketch_2.png)
+
+### Section 3
+![Sketch 3](sketch_3.png)
+
 
 Text here...
 
