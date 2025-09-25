@@ -13,10 +13,6 @@ Next, the scope expands to the NFL. Since concussions and CTE gained widespread 
 
 Finally, the project examines CTE data, showing the real-life consequences that repeated concussions can have on players’ long-term health. Through visualizations, the goal is to highlight the connection between football and elevated CTE risk, emphasizing that these issues deserve serious attention at every level of play. While the project does not seek to dissuade anyone from playing football, it provides insight into the hidden risks of concussions and encourages awareness and informed decision-making for athletes, coaches, and the broader sports community.
 
-
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise, along with your user stories and one sentence summary, to make the topic even clearer. 
-
 # Project Structure
 One Sentence Summary: This project visually explores concussion trends across youth, collegiate, and professional football, highlighting the risk, long-term consequences, and the impact of rule changes over time.  
 1. Personal Connection
@@ -50,39 +46,37 @@ Some User stories for later incorporation
          
 
 ## Initial sketches
-
-### Section 1
+Below are 9 different sketches outlining my visualization vision for this project. You will see my bad handwriting as you see the plan, but hand-drawn sketches always seem to me to be better for truly visualizing your story and what you want to do. 
+### Sketch 1
 ![Sketch 1](Sketch_7.png)
 
-### Section 2
+### Sketch 2
 ![Sketch 2](Sketch_8.png)
 
-### Section 3
+### Sketch 3
 ![Sketch 3](Sketch_9.png)
 
-### Section 4
+### Sketch 4
 ![Sketch 1](Sketch_3.png)
 
-### Section 5
+### Sketch 5
 ![Sketch 1](Sketch_1.png)
 
-### Section 6
+### Sketch 6
 ![Sketch 1](Sketch_4.png)
 
-### Section 7
+### Sketch 7
 ![Sketch 1](Sketch_5.png)
 
-### Section 7
+### Sketch 7
 ![Sketch 1](Sketch_6.png)
 
-### Section 9
+### Sketch 9
 ![Sketch 1](Sketch_2.png)
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
 For this project, I am using multiple datasets to explore concussion rates across high school, NCAA, and NFL football, along with additional data examining CTE and its significance. I have a goal of identifying trends in sports with the highest concussion rates and exploring further through the NCAA and NFL concussion data. 
 
 Starting with high school concussion data, this data comes from the Youth Risk Behavior Surveillance System (YRBSS) and related CDC/NSC reports. This dataset provides concussion rates by state, sport, and gender/demographic. I will use this data to create a map visualization showing how concussion rates vary geographically across U.S. states for youth sports. I will additionally display the highest concussion rates across sports in ages 10-18 using data provided by a scholarly article called "Concussion in high school sports: findings from injury
@@ -119,7 +113,17 @@ CDC Youth Concussion Date |  https://yrbs-explorer.services.cdc.gov/#/graphs?que
 
 For my Final Project, I will use shorthand to visually show my concussion story. I plan to begin with a personal connection through my experiences with concussions, then delve deeper into the actual data. Using concussion data from youth, NCAA, and NFL football, along with supplementary CTE data, I plan to create multiple visualizations, including a bar chart to show concussion rates across sports for NCAA and High school levels, along with a further breakdown of concussions by state. In addition, conveying concussion trends through rule changes in the NFL, and by position. Finally, highlighting CTE data through years of football played relative to CTE level. I will integrate these visualizations into a cohesive story arc, highlighting football’s high concussion rates, the progression to CTE, and the impact of rule changes in the NFL. Most of these visualizations will be created using Tableau, with an expectation for the map visualization by US state, which will be created using Python, with integration into Shorthand to convey a compelling visualization storyboard. 
 ## References
-_List any references you used here._
+Alosco, M. L., Mez, J., Tripodis, Y., Kiernan, P. T., Abdolmohammadi, B., Murphy, L., ... & McKee, A. C. (2023). Clinicopathological features of chronic traumatic encephalopathy in American football players. Nature Communications, 14(1), 3682. https://doi.org/10.1038/s41467-023-39183-0
+
+National Football League. (n.d.). NFL health and safety rules and regulations. Retrieved September 25, 2025, from https://www.nfl.com/playerhealthandsafety
+
+National Federation of State High School Associations. (n.d.). High school sports participation and injury data. Retrieved September 25, 2025, from https://www.nfhs.org
+
+NCAA Sport Science Institute. (n.d.). Concussion data and resources. Retrieved September 25, 2025, from https://www.ncaa.org/sports/2016/7/20/concussion.aspx
+
+Boston University CTE Center. (n.d.). Chronic traumatic encephalopathy research and resources. Retrieved September 25, 2025, from https://www.bu.edu/cte/
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+AI was used in two instances during this project:
+1. Helped to create the US state map "Sketch" promptly as my artistic ability does not include map drawing
+2. Helped to easily compile my sources into one reference section
