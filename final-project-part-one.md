@@ -26,7 +26,7 @@ For this project, I am using multiple datasets to explore concussion rates acros
 Starting with high school concussion data, this data comes from the Youth Risk Behavior Surveillance System (YRBSS) and related CDC/NSC reports. This dataset provides concussion rates by state, sport, and gender/demographic. I will use this data to create a map visualization showing how concussion rates vary geographically across U.S. states for youth sports. I will additionally display the highest concussion rates across sports in ages 10-18 using data provided by a scholarly article called "Concussion in high school sports: findings from injury
 surveillance".
 
-After establishing football as the leading cause of concussions through the data, I will be looking at NCAA data to see if the trends fall similarly. First, I will start by examining concussion trends by collegiate sport, similar to what we did with youth/high school sports. For this part, I have two data sets, both from the Journal of Athletic Training. The first one, titled "Epidemiology of Concussions in National Collegiate Athletic Association (NCAA) Sports", examines data from 2011-2015, examining concussion rates by sports. The second article is called "Epidemiology of Concussions in National Collegiate Athletic Association (NCAA) Sports", so the same title and a continuation of the same study, but from 2015 to 2019. I hope to pull the data from these two journals and see how trends across sports have changed in terms of concussion rates. 
+After establishing football as the leading cause of concussions through the data, I will be looking at NCAA data to see if the trends fall similarly. First, I will start by examining concussion trends by collegiate sport, similar to what we did with youth/high school sports. For this part, I have two data sets, both from the Journal of Athletic Training. The first one, titled "Epidemiology of Concussions in National Collegiate Athletic Association (NCAA) Sports", examines data from 2011-2015, examining concussion rates by sports. The second article is called "Epidemiology of Concussions in National Collegiate Athletic Association (NCAA) Sports", so the same title and a continuation of the same study, but from 2015 to 2019. I hope to pull the data from these two journals and see how trends across sports have changed in terms of concussion rates trhoughout the years. 
 
 One limitation of NCAA concussion data is that the data is collected by a private organization, and therefore, public data is not accessible. In order to account for this, I decided to put an extra focus on the NFL. 
 
@@ -39,10 +39,18 @@ CTE DATA
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your GitHub repository, Box account, or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available, please talk to me first. 
 
 | Name | URL | Description |
-|------|-----|-------------|
-CDC Youth Concussion Date |  https://yrbs-explorer.services.cdc.gov/#/graphs?questionCode=H79&topicCode=C06&location=XX&year=2023   | Includes data that we can pull into CVS files for the entire US and further broken down by US States|
-| Youth ALL Sports Data     |     |             |
-|      |     |             |
+CDC Youth Concussion Date |  https://yrbs-explorer.services.cdc.gov/#/graphs?questionCode=H79&topicCode=C06&location=XX&year=2023   | Includes data that we can pull into CVS files through an easy click for the entire US and further broken down by US States|
+
+|Sport,Overall_Cases,Overall_Exposur  |  Provided in this Github Repository   |   Breakdown of Conussion rates by High School|
+
+|   NCAA Sports Data  2011-2015 |  https://pmc.ncbi.nlm.nih.gov/articles/PMC5384815/   |   The link provides the article, from which data will be easily pulled from the table and pushed into CSV format using AI tools for easier conversion |
+
+|NCAA Sports Data 2015-2019| https://pubmed.ncbi.nlm.nih.gov/34280281/| The link, just like the above data set, is provided in the article via a table, and data will be pulled using AI tools|
+
+|NFL Concussion Data| Data is provided by the NFL, https://www.nfl.com/playerhealthandsafety/health-and-wellness/injury-data/injury-data, but a Kaggle dataset has already converted this into a CSV, https://www.kaggle.com/datasets/ajvazquez/nfl-concussions-from-2015-2023|. This data examines concussion rates throughout the NFL season, breaking it down by Preseason, Regular season, games, and practice|
+
+|NFL Concussion Data via scrapping| Guthub link, https://github.com/jchernak96/NFL-Injury-Data-PFR-/tree/master/Data| Guthub provides data sets of concussion data through scrapping of Pro-football-refernce|
+
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
