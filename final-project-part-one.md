@@ -73,6 +73,8 @@ Finally, I will conclude with CTE data, showing the CTE level based on the years
 Quantify associations between repetitive head impacts and chronic traumatic encephalopathy in males." This will allow for an exploration of how playing football directly relates to CTE. 
 
 | Name | URL | Description |
+
+
 CDC Youth Concussion Date |  https://yrbs-explorer.services.cdc.gov/#/graphs?questionCode=H79&topicCode=C06&location=XX&year=2023   | Includes data that we can pull into CVS files through an easy click for the entire US and further broken down by US States|
 
 |Sport,Overall_Cases,Overall_Exposur  |  Provided in this Github Repository   |   Breakdown of Conussion rates by High School|
