@@ -113,16 +113,24 @@ CDC Youth Concussion Date |  https://yrbs-explorer.services.cdc.gov/#/graphs?que
 
 For my Final Project, I will use shorthand to visually show my concussion story. I plan to begin with a personal connection through my experiences with concussions, then delve deeper into the actual data. Using concussion data from youth, NCAA, and NFL football, along with supplementary CTE data, I plan to create multiple visualizations, including a bar chart to show concussion rates across sports for NCAA and High school levels, along with a further breakdown of concussions by state. In addition, conveying concussion trends through rule changes in the NFL, and by position. Finally, highlighting CTE data through years of football played relative to CTE level. I will integrate these visualizations into a cohesive story arc, highlighting football’s high concussion rates, the progression to CTE, and the impact of rule changes in the NFL. Most of these visualizations will be created using Tableau, with an expectation for the map visualization by US state, which will be created using Python, with integration into Shorthand to convey a compelling visualization storyboard. 
 ## References
-Alosco, M. L., Mez, J., Tripodis, Y., Kiernan, P. T., Abdolmohammadi, B., Murphy, L., ... & McKee, A. C. (2023). Clinicopathological features of chronic traumatic encephalopathy in American football players. Nature Communications, 14(1), 3682. https://doi.org/10.1038/s41467-023-39183-0
 
-National Football League. (n.d.). NFL health and safety rules and regulations. Retrieved September 25, 2025, from https://www.nfl.com/playerhealthandsafety
+Alosco, M. L., et al. "Clinicopathological Features of Chronic Traumatic Encephalopathy in American Football Players." Nature Communications, vol. 14, no. 3682, 2023, https://doi.org/10.1038/s41467-023-39183-0. Accessed 25 Sept. 2025.
 
-National Federation of State High School Associations. (n.d.). High school sports participation and injury data. Retrieved September 25, 2025, from https://www.nfhs.org
+Boston University CTE Center. "Chronic Traumatic Encephalopathy Research and Resources." Boston University, https://www.bu.edu/cte/. Accessed 25 Sept. 2025.
 
-NCAA Sport Science Institute. (n.d.). Concussion data and resources. Retrieved September 25, 2025, from https://www.ncaa.org/sports/2016/7/20/concussion.aspx
+Centers for Disease Control and Prevention. Youth Risk Behavior Survey Data Summary & Trends Report: 2013–2023. U.S. Department of Health and Human Services, 2024, https://www.cdc.gov/yrbs/dstr/index.html. Accessed 25 Sept. 2025.
 
-Boston University CTE Center. (n.d.). Chronic traumatic encephalopathy research and resources. Retrieved September 25, 2025, from https://www.bu.edu/cte/
+Chandran, Avinash, et al. "Concussion in High School Sports: Findings from Injury Surveillance." Pediatric Research, vol. 2025, 20 Jan. 2025, https://doi.org/10.1038/s41390-025-03863-y. Accessed 25 Sept. 2025.
 
+Chandran, Avinash, et al. "Epidemiology of Injuries in National Collegiate Athletic Association Men's Football: 2014–2015 Through 2018–2019." Journal of Athletic Training, vol. 56, no. 7, 2021, pp. 643–650, https://doi.org/10.4085/1062-6050-447-20. Accessed 25 Sept. 2025.
+
+Daneshvar, Daniel H., et al. "Leveraging Football Accelerometer Data to Quantify Associations between Repetitive Head Impacts and Chronic Traumatic Encephalopathy in Males." Nature Communications, vol. 14, no. 3470, 2023, https://doi.org/10.1038/s41467-023-39183-0. Accessed 25 Sept. 2025.
+
+Kerr, Zachary Y., et al. "Epidemiologic Measures for Quantifying the Incidence of Concussion in National Collegiate Athletic Association Sports." Journal of Athletic Training, vol. 52, no. 3, 2017, pp. 167–174, https://doi.org/10.4085/1062-6050-51.6.05. Accessed 25 Sept. 2025.
+
+National Football League. "NFL Health and Safety Rules and Regulations." NFL, https://www.nfl.com/playerhealthandsafety/. Accessed 25 Sept. 2025.
+
+National Football League. "Injury Data Since 2015." NFL, https://www.nfl.com/playerhealthandsafety/health-and-wellness/injury-data/injury-data. Accessed 25 Sept. 2025.
 ## AI acknowledgements
 AI was used in two instances during this project:
 1. Helped to create the US state map "Sketch" promptly as my artistic ability does not include map drawing
