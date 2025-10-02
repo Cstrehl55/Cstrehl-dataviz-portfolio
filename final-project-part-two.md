@@ -71,16 +71,12 @@ Audience wanted a stronger conclusion or final takeaway.	Add a final “call to 
 
 > ...include any final thoughts you have here. 
 
-I want to say, these interviews have been a critical step in the process at finalizing my porgress in this porject. 
+I want to say, these interviews have been a critical step in the process of finalizing my progress in this project. I now have an exact plan on how I ant to go about getting my story pushed through to the audience. I feel my shorthand progress does a good job of showing at least where the story is going. I am excited to share my results of this project on concussions as it does have a lot of salience with me. I just wanted to clarify, in many of the parts on shorthand, the story of why the data is saying what it is saying will be delved into during part III. I felt part II was good to get the intial story across, but more deeper insights into rules that help explain why the concussion data on each level is the way it is. Along with futher, deeper exploration of CTE data with inforgraphics for concussions and CTE. 
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+Chat GTP helped to create the CTE vis seen in Shorthand.
