@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+
 
 The wirefram/storyborad is currently being made through shorthand, with an overarching story, and components not finalized or finished noted of to present the overarching story, even without all the necessary components to explore it. 
 Link: https://preview.shorthand.com/iyQXqFxEgRln9in0
@@ -9,14 +9,11 @@ Link: https://preview.shorthand.com/iyQXqFxEgRln9in0
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 My target audience is focused on current football players, parents of football players, and even to a smaller extend rule makers. My main focus on my traget audience is football players and parents, because a prominant fixture of football is many players fighting to play through injuries. While thats all good for sprains or muscle injuries, this logic just does not apply to concussions. I hope to not only explore the high concussion rates, but the CTE impact. Thereby, I can target towards pushing football players to report concussions and any injuries to the head, because of the potintial dangerous consequences of these injuries. Moreover, I hope to reach parents, who can be aware of potintial effects of concussions, and when their child is expeircning it to be aware of the many symptoms and consequences that can occur. Finally, rule makers at state and NFL level can see the porgress on rule chnages, and their state concussion rates to see if new rules should come forth, something I will delve much deeper in Part 3. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
 
 Goal	Questions to Ask
 Clarity of story:	Can you easily follow the narrative from youth to NCAA to NFL to CTE? Is there any point where you feel lost or need more background?
@@ -24,7 +21,6 @@ Effectiveness of visuals:	Do the charts/maps make sense to you? Is there any vis
 Impact of message:	After going through the draft, how do you feel about concussions in football? Do you think the story makes the risks clear?
 Improvements:	If you had to change one thing, the order, the visuals, or the amount of detail, what would it be?
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -58,7 +54,7 @@ Overall, the interviews showed that my project has a strong foundation, but I ne
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+
 
 Going off the great insight I gained from the interviews, I gained many plans for what I want to incorporate into Part III. The table below delves into the exat finding from the interviews, and the anticipated changes based on these insight. 
 
@@ -69,7 +65,7 @@ Story structure (youth → NCAA → NFL → CTE) was strong and easy to follow.|
 Positive reception of existing visuals, but advice to use color more intentionally.|	Refine color choices in charts/maps to highlight comparisons and emphasize key points. Titles of visuals not impactful enough.	Rewrite titles to be more engaging and informative, making them part of the storytelling instead of just labels.
 Audience wanted a stronger conclusion or final takeaway.	Add a final “call to action” or takeaway slide that summarizes the risks of concussions and CTE clearly, and the explicit point of reaching my intended target audience. Maybe an infograph final take away slide, and thats where the infographs of concussions and CTE can go.                                                                             
 
-> ...include any final thoughts you have here. 
+# Final Thoughts
 
 I want to say, these interviews have been a critical step in the process of finalizing my progress in this project. I now have an exact plan on how I ant to go about getting my story pushed through to the audience. I feel my shorthand progress does a good job of showing at least where the story is going. I am excited to share my results of this project on concussions as it does have a lot of salience with me. I just wanted to clarify, in many of the parts on shorthand, the story of why the data is saying what it is saying will be delved into during part III. I felt part II was good to get the intial story across, but more deeper insights into rules that help explain why the concussion data on each level is the way it is. Along with futher, deeper exploration of CTE data with inforgraphics for concussions and CTE. 
 
