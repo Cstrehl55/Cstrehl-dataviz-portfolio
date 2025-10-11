@@ -1,9 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+(https://carnegiemellon.shorthandstories.com/the-hidden-truth-of-concussions/index.html)
 
 # Changes made since Part II
 Since completing Part II, I focused on deepening the storytelling and clarifying the connection between concussions and CTE, which was the main area of confusion from my user interviews. In my Shorthand story, I added an entire section dedicated to explaining CTE, including both narrative text and a new line graph showing how the likelihood of developing CTE increases with years of football exposure. In addition, I incorporated findings from a JAMA study that analyzed CTE prevalence in former NFL players’ brains, creating a visualization of those results.
@@ -39,13 +37,13 @@ For visuals, I made sure the color palette and layout supported the tone, using 
 
 Ultimately, the final design combines storytelling, data accuracy, and emotional connection. It informs viewers about the science, shows them real impacts, and leaves them with clear steps to act, creating a complete and meaningful narrative around concussion awareness.
 ## References
-Data references are provided in part one, with additional references found on shorthand for text provided here. 
+Data references are provided in part one, with additional references found on the shorthand for text provided here. 
 
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
-Detailed in Shorthand. 
+
+Detailed in the Shorthand in the references section.
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
