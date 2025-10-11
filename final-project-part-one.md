@@ -124,6 +124,8 @@ Chandran, Avinash, et al. "Concussion in High School Sports: Findings from Injur
 
 Chandran, Avinash, et al. "Epidemiology of Injuries in National Collegiate Athletic Association Men's Football: 2014–2015 Through 2018–2019." Journal of Athletic Training, vol. 56, no. 7, 2021, pp. 643–650, https://doi.org/10.4085/1062-6050-447-20. Accessed 25 Sept. 2025.
 
+Chernak, J. (n.d.). NFL Injury Data from Pro Football Reference. GitHub repository. Retrieved October 11, 2025, from https://github.com/jchernak96/NFL-Injury-Data-PFR-
+
 Daneshvar, Daniel H., et al. "Leveraging Football Accelerometer Data to Quantify Associations between Repetitive Head Impacts and Chronic Traumatic Encephalopathy in Males." Nature Communications, vol. 14, no. 3470, 2023, https://doi.org/10.1038/s41467-023-39183-0. Accessed 25 Sept. 2025.
 
 Kerr, Zachary Y., et al. "Epidemiologic Measures for Quantifying the Incidence of Concussion in National Collegiate Athletic Association Sports." Journal of Athletic Training, vol. 52, no. 3, 2017, pp. 167–174, https://doi.org/10.4085/1062-6050-51.6.05. Accessed 25 Sept. 2025.
