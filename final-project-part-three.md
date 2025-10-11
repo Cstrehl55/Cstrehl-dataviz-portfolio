@@ -37,7 +37,7 @@ For visuals, I made sure the color palette and layout supported the tone, using 
 
 Ultimately, the final design combines storytelling, data accuracy, and emotional connection. It informs viewers about the science, shows them real impacts, and leaves them with clear steps to act, creating a complete and meaningful narrative around concussion awareness.
 ## References
-Data references are provided in part one, with additional references found on the shorthand for text provided here. 
+Data references are provided in part one, with additional references found on the shorthand for text provided there. 
 
 
 ## AI acknowledgements
