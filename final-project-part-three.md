@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # The final data story
 (https://carnegiemellon.shorthandstories.com/the-hidden-truth-of-concussions/index.html)
@@ -37,7 +37,28 @@ For visuals, I made sure the color palette and layout supported the tone, using 
 
 Ultimately, the final design combines storytelling, data accuracy, and emotional connection. It informs viewers about the science, shows them real impacts, and leaves them with clear steps to act, creating a complete and meaningful narrative around concussion awareness.
 ## References
-Data references are provided in part one, with additional references found on the shorthand for text provided there. 
+Data references are provided in part one.
+Centers for Disease Control and Prevention. (n.d.). HEADS UP: Concussion and head injury awareness. U.S. Department of Health & Human Services. Retrieved from https://www.cdc.gov/headsup
+
+Concussion Legacy Foundation. (n.d.). Resources for athletes, parents, and coaches. Retrieved from https://concussionfoundation.org
+
+ESPN. (2020). NFL CBA approved: What players get in new deal, how expanded playoffs and schedule will work. Retrieved from https://www.espn.com
+
+Mayo Clinic. (n.d.). Chronic traumatic encephalopathy (CTE): Symptoms and causes. Retrieved from https://www.mayoclinic.org/diseases-conditions/chronic-traumatic-encephalopathy/symptoms-causes/syc-20370921
+
+Mez, J., Daneshvar, D. H., Kiernan, P. T., Abdolmohammadi, B., Alvarez, V. E., Huber, B. R., ... & McKee, A. C. (2017). Clinicopathological evaluation of chronic traumatic encephalopathy in players of American football. JAMA, 318(4), 360–370. https://doi.org/10.1001/jama.2017.8334
+
+NFL Players Association. (2020). NFL collective bargaining agreement (Article 23). Retrieved from https://overthecap.com/collective-bargaining-agreement/
+
+NFL Players Association. (n.d.). Offseason rules. Retrieved from https://nflpa.com
+
+Niners Nation. (n.d.). NFL training camps: A re-explanation of CBA rules regarding practices. Retrieved from https://www.ninersnation.com
+
+Streicher, A. (2021). Chronic traumatic encephalopathy: The brain disease behind the headlines. Journal of Neurology & Clinical Neuroscience.
+
+National Collegiate Athletic Association. (n.d.). Concussion safety protocol. Retrieved from https://www.ncaa.org/sport-science-institute
+
+Penn State Athletics. (n.d.). West Shore Home Field at Beaver Stadium. Retrieved from https://gopsusports.com/west-shore-home-field-at-beaver-stadium
 
 
 ## AI acknowledgements
