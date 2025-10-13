@@ -75,5 +75,8 @@ Throughout the process, I learned that it is not enough to just show data, you h
 I also realized how much storytelling can drive awareness and change. The call to action at the end was something I wanted to make more personal, not just statistics, but real guidance for players, parents, and coaches. It was about reminding people to take concussions seriously, recognize symptoms, and prioritize safety over competition. Those resources and reminders were a way of saying that protecting your brain is not weakness, it is strength.
 From a data perspective, I learned a lot about how to interpret and question patterns. Diving into the positional breakdowns and NFL rule changes helped me see how certain safety measures have actually worked over time. It showed that progress is possible, but it also made me realize how much further there is to go, especially at the youth and high school levels where reporting is inconsistent.
 
+Another big part of my project was the personal connection. Football has been a big part of my life for 16 years, and it still is. Learning more about football and concussions was an amazing part of my project, and CTE and concussions have always been a point of interest, so truly delving into the data opened my eyes further into many of the rule changes that have taken place. 
+
+
 Overall, this project became more than just a class assignment, it became a reflection on how culture, awareness, and science intersect in sports. I came away with a stronger sense of how data visualization can turn a complex issue into something accessible and impactful. More importantly, I came away with respect for the athletes who deal with these injuries every day, and a stronger belief that awareness and education are the keys to protecting them.
 
