@@ -34,7 +34,7 @@ For my final project, I examined concussion rates across different levels of foo
 The project goes beyond the data to show the true consequences of football, using visuals and infographics to explain the stages of CTE and highlight concussion symptoms that players, parents, and coaches should be aware of. Overall, this project serves as both an analysis and a resource, aimed at increasing awareness of how concussions develop, how they can be prevented, and why they matter at every level of the game.
 [Part I](final-project-part-one.md)
 [Part II](final-project-part-two.md)
-Part III(final-project-part-three.md)
+[Part III](final-project-part-three.md)
 
 ## Other Examples of Work
 
