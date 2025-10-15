@@ -66,7 +66,6 @@ Penn State Athletics. (n.d.). West Shore Home Field at Beaver Stadium. Retrieved
 
 Detailed in the Shorthand in the references section.
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
 Looking back on this project, I have realized how much it changed the way I think about both data and storytelling. When I first started, my main goal was just to visualize concussion trends and make them easy to understand, but as I went deeper I began to see that this was not just a numbers project, it was about real people, real risks, and a culture that often normalizes playing through pain. Seeing how concussions connect to CTE and how those long-term effects play out made the story feel much more personal and urgent.
 
